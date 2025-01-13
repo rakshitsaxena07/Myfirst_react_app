@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rakshitsaxena07/Myfirst_react_app.git/static/css/main.dc4d6ff2.css",
+    "main.js": "/rakshitsaxena07/Myfirst_react_app.git/static/js/main.0c8c4632.js",
+    "static/js/488.fef93cc1.chunk.js": "/rakshitsaxena07/Myfirst_react_app.git/static/js/488.fef93cc1.chunk.js",
+    "index.html": "/rakshitsaxena07/Myfirst_react_app.git/index.html",
+    "main.dc4d6ff2.css.map": "/rakshitsaxena07/Myfirst_react_app.git/static/css/main.dc4d6ff2.css.map",
+    "main.0c8c4632.js.map": "/rakshitsaxena07/Myfirst_react_app.git/static/js/main.0c8c4632.js.map",
+    "488.fef93cc1.chunk.js.map": "/rakshitsaxena07/Myfirst_react_app.git/static/js/488.fef93cc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.0c8c4632.js"
+  ]
+}
